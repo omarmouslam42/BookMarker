@@ -1,0 +1,25 @@
+.file{
+    background-color:#EEEEEE;
+}
+.btn1:hover{
+    background-color: blue;
+}
+.front{
+    font-size: 30px;
+}
+.front ,h6{
+    color: #AAAAAA;
+}
+h6{
+    font-size: 14px;
+}
+tr{
+    background:linear-gradient(to bottom ,#F1F1F1 ,white) ;
+
+}
+.btn2{
+ background-color: blue;
+}
+.btn3{
+ background-color: rgb(146, 17, 17);
+}
